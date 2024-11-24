@@ -1,0 +1,18 @@
+.cartoon-card {
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0px -1px 20px rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(15px);
+    border-radius: 12px;
+
+}
+
+.br-12 {
+    border-radius: 12px !important;
+}
+
+.swiper {
+    width: 300px;
+    height: 345px;
+}
